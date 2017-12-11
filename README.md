@@ -12,5 +12,5 @@ Adel Bibi and Bernard Ghanem
 International Conference on Computer Vision (ICCV 2017)
 
 ## Training
-Run the m file run_me.m
+run_me.m
 
